@@ -1,7 +1,7 @@
 <template>
     <div>
-  <h2>Hi This is About Page </h2>
-
+   <h1>## About Page</h1>
+    <p>এটা আমাদের Offer</p>
     </div>
 </template>
 
